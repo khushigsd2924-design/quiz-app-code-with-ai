@@ -92,3 +92,6 @@ This project is intended for educational and learning purposes. No specific open
 
 **Author:** khushigsd2924-design  
 **Repository:** [quiz-app-code-with-ai](https://github.com/khushigsd2924-design/quiz-app-code-with-ai)
+
+## Verified Features
+All 5 multiple-choice questions, styling, and score calculation verified in modern browsers.
